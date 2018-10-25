@@ -1,2 +1,2 @@
 # CareOnTime.com
-CSIT 321 - Care on time promotional website 
+CSIT 321 - Care on time website 
